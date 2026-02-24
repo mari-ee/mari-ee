@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">🌸 Makeda E. Ogunlana 🌸</h1>
 
-<!--
-**mari-ee/mari-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9FD3FF&size=22&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+progress;Future+Research+Scientist;Biomedical+Science+×+Artificial+Intelligence">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/TTrjP34cPRQ5p5LXGt/giphy.gif" width="350" alt="Bangchan GIF">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌷 About Me
+
+Biomedical Science major with a Computer Science minor focused on machine learning and data analytics.
+
+I am building strong foundations in mathematics, statistics, and algorithmic thinking to pursue research-driven artificial intelligence — especially in biomedical applications.
+
+---
+
+## 🌸 Technical Focus
+
+Python • Java  
+Pandas • NumPy • Scikit-learn  
+Git • GitHub  
+
+Core Foundations:  
+Data Structures • Linear Algebra • Statistics  
+
+---
+
+## 🌼 Research Direction
+
+• Supervised & unsupervised learning  
+• Statistical modeling for life sciences  
+• Pattern recognition in complex datasets  
+• AI systems grounded in mathematical reasoning  
+
+---
+
+<p align="center">
+  🌸 🌸 🌸 🌸 🌸
+</p>
+
+<p align="center">
+  <i>Growing intelligent systems where biology meets machine learning.</i>
+</p>
