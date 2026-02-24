@@ -42,5 +42,5 @@ Data Structures • Linear Algebra • Statistics
 </p>
 
 <p align="center">
-  <i>Growing intelligent systems where biology meets machine learning.</i>
+  <i>Nice to meet you. I also like listening to k-pop and reading books :)</i>
 </p>
