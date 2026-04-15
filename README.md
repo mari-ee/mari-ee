@@ -11,7 +11,7 @@
 
 ## 🌷 About Me
 
-Biomedical Science major with a Computer Science minor focused on machine learning and data analytics.
+Biomedical Science major with a Computer Science minor focused on machine learning and data analytics. I also do web design for fun :)
 
 I am building strong foundations in mathematics, statistics, and algorithmic thinking to pursue research-driven artificial intelligence — especially in biomedical applications.
 
@@ -19,8 +19,8 @@ I am building strong foundations in mathematics, statistics, and algorithmic thi
 
 ## 🌸 Technical Focus
 
-Python • Java  
-Pandas • NumPy • Scikit-learn  
+Python • Java • HTML/CSS • JavaScript
+Pandas • NumPy • React • Java  
 Git • GitHub  
 
 Core Foundations:  
